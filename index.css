@@ -1,0 +1,27 @@
+.winner {
+	color: green;
+}
+
+body {
+	font-family: "Krona One", sans-serif;
+}
+
+#game {
+	text-align: center;
+	margin: 50px auto;
+	border: 2px solid black;
+	padding: 20px;
+	width: 40%;
+	background-color: blueviolet;
+}
+
+button {
+	background-color: gold;
+	font-family: "Krona One", sans-serif;
+	margin-bottom: 10px;
+}
+
+input {
+	margin: 0 0 20px 0;
+	font-family: "Krona One", sans-serif;
+}
